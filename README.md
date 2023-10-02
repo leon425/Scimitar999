@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scimitar999
+- 👋 Hi, I’m @leon425
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
